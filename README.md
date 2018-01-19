@@ -1,2 +1,2 @@
-# darnetx
-repozytorium 1
+# DarNetX
+Usługa Informatyczna
